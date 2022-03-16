@@ -1,0 +1,83 @@
+PS C:\Users\suresh_varma>
+enter number of rows and columns : 
+5
+5
+enter the values
+0
+1
+0
+1
+0
+1
+0
+1
+1
+1
+0
+1
+1
+0
+1
+0
+1
+0
+0
+1
+1
+1
+1
+1
+1
+the result is :
+9 9 9 9 9
+9 9 9 9 9
+9 9 9 9 9
+9 9 9 9 9
+9 9 9 9 1
+the number of 1's are : 1
+PS C:\Users\suresh_varma>
+enter number of rows and columns : 
+4
+4
+enter the values
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+0
+1
+1
+0
+1
+1
+the result is :
+1 9 9 1
+9 9 9 9
+9 9 9 9
+1 9 9 1
+the number of 1's are : 4
+PS C:\Users\suresh_varma>
+enter number of rows and columns : 
+3
+3
+enter the values
+1
+1
+0
+1
+1
+1
+0
+1
+1
+the result is :
+9 9 9
+9 1 1
+9 1 1
+the number of 1's are : 4
